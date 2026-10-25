@@ -1,0 +1,43 @@
+
+===== CONTACT BOOK =====
+1. Add a contact
+2. View all contacts
+3. Search for a contact
+4. Exit
+Enter your choice (1-4): Enter name: Enter phone number: Enter email address: Contact 'Dinesh' added successfully!
+
+===== CONTACT BOOK =====
+1. Add a contact
+2. View all contacts
+3. Search for a contact
+4. Exit
+Enter your choice (1-4): Enter name: Enter phone number: Enter email address: Contact 'Priya' added successfully!
+
+===== CONTACT BOOK =====
+1. Add a contact
+2. View all contacts
+3. Search for a contact
+4. Exit
+Enter your choice (1-4): 
+Name                Phone          Email                         
+-----------------------------------------------------------------
+Dinesh              9876543210     dinesh@example.com            
+Priya               9123456780     priya@example.com             
+
+===== CONTACT BOOK =====
+1. Add a contact
+2. View all contacts
+3. Search for a contact
+4. Exit
+Enter your choice (1-4): Enter the name to search: 
+Contact found!
+Name  : Priya
+Phone : 9123456780
+Email : priya@example.com
+
+===== CONTACT BOOK =====
+1. Add a contact
+2. View all contacts
+3. Search for a contact
+4. Exit
+Enter your choice (1-4): Goodbye! Your contacts are saved for this session.

@@ -1,0 +1,61 @@
+
+===== TO-DO LIST =====
+1. Add a task
+2. View all tasks
+3. Delete a task
+4. Exit
+Enter your choice (1-4): Enter the task description: Task added: 'Buy groceries'
+
+===== TO-DO LIST =====
+1. Add a task
+2. View all tasks
+3. Delete a task
+4. Exit
+Enter your choice (1-4): Enter the task description: Task added: 'Finish internship report'
+
+===== TO-DO LIST =====
+1. Add a task
+2. View all tasks
+3. Delete a task
+4. Exit
+Enter your choice (1-4): Enter the task description: Task added: 'Read a book'
+
+===== TO-DO LIST =====
+1. Add a task
+2. View all tasks
+3. Delete a task
+4. Exit
+Enter your choice (1-4): 
+===== YOUR TASKS =====
+1. Buy groceries
+2. Finish internship report
+3. Read a book
+
+===== TO-DO LIST =====
+1. Add a task
+2. View all tasks
+3. Delete a task
+4. Exit
+Enter your choice (1-4): 
+===== YOUR TASKS =====
+1. Buy groceries
+2. Finish internship report
+3. Read a book
+Enter the task number to delete: Task deleted: 'Finish internship report'
+
+===== TO-DO LIST =====
+1. Add a task
+2. View all tasks
+3. Delete a task
+4. Exit
+Enter your choice (1-4): 
+===== YOUR TASKS =====
+1. Buy groceries
+2. Read a book
+
+===== TO-DO LIST =====
+1. Add a task
+2. View all tasks
+3. Delete a task
+4. Exit
+Enter your choice (1-4): Goodbye! Your tasks have been saved.
